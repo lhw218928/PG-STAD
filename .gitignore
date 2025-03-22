@@ -1,0 +1,6 @@
+# 忽略 datasets/data/processed 下的 SWAT 文件
+datasets/data/processed/*swat*
+
+# 忽略 output 目录下的 SWAT 目录
+output/SWAT/
+
